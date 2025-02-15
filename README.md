@@ -58,6 +58,6 @@ to be added
 - [ ] Improve UI Animations
 
 ## 📝 Contributors
-- **SwaraJ Mohapatra** ([@swarajcodes](https://github.com/swarajcodes))
+- **Swaraj Mohapatra** ([@swarajcodes](https://github.com/swarajcodes))
 
 
