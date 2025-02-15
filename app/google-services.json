@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "37746967903",
+    "project_id": "kathav1",
+    "storage_bucket": "kathav1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37746967903:android:ccf36084f28ae4e8efe2ea",
+        "android_client_info": {
+          "package_name": "com.swaraj.kathav1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6jOmQcUDpSdS8pbCpcZEHbad3A_HQuAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

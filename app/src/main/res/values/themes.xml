@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Kathav1" parent="android:Theme.Material.Light.NoActionBar" />
+    
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/green</item>
+        <item name="postSplashScreenTheme">@style/Theme.Kathav1</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/katha_logo1</item>
+    </style>
+</resources>
